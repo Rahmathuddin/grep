@@ -1,5 +1,0 @@
-git clone https://git.codecrafters.io/fd6656af5a0ac7cb codecrafters-interpreter-python
-cd codecrafters-interpreter-python
-
-git commit --allow-empty -m 'test'
-git push origin master
